@@ -26,7 +26,7 @@ SECRET_KEY = '+z*s+94$7nu)$8@uv5$-9o)9+=8*c-+t7!t_@mj(=a)wdug!5x'
 DEBUG = True
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', u'192.9.86.205','.pythonanywhere.com']
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', u'192.9.86.205','.pythonanywhere.com']
 
 
 # Application definition
